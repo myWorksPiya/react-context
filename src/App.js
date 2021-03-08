@@ -19,8 +19,7 @@ function App() {
 				<BookList />
 				<ToggleButton />
 			</ThemeContextProvider>
-			</AuthContextProvider>
-			
+			</AuthContextProvider>	
 		</div>
 	);
 }

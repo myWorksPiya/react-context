@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/myWorksPiya/react-context/static/css/main.9db90240.chunk.css",
-    "main.js": "/myWorksPiya/react-context/static/js/main.9115b43b.chunk.js",
-    "main.js.map": "/myWorksPiya/react-context/static/js/main.9115b43b.chunk.js.map",
+    "main.js": "/myWorksPiya/react-context/static/js/main.8a9bd32a.chunk.js",
+    "main.js.map": "/myWorksPiya/react-context/static/js/main.8a9bd32a.chunk.js.map",
     "runtime-main.js": "/myWorksPiya/react-context/static/js/runtime-main.d21ff096.js",
     "runtime-main.js.map": "/myWorksPiya/react-context/static/js/runtime-main.d21ff096.js.map",
     "static/js/2.93d28a36.chunk.js": "/myWorksPiya/react-context/static/js/2.93d28a36.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.d21ff096.js",
     "static/js/2.93d28a36.chunk.js",
     "static/css/main.9db90240.chunk.css",
-    "static/js/main.9115b43b.chunk.js"
+    "static/js/main.8a9bd32a.chunk.js"
   ]
 }
